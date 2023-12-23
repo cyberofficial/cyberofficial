@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Synthalingua
+🔭 I’m currently working on [Synthalingua](https://github.com/cyberofficial/Synthalingua)
 
 
 # 💻 Tech Stack:
