@@ -47,6 +47,10 @@
 </p>
 
 <p align="center">
+  You can follow my X account https://x.com/therealjoeykoen for updates on Synthalingua
+</p>
+
+<p align="center">
   <a href="https://github.com/cyberofficial/Synthalingua">
     <img src="https://img.shields.io/badge/Visit%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
