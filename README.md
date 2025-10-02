@@ -47,7 +47,8 @@
 </p>
 
 <p align="center">
-  You can follow my X account https://x.com/therealjoeykoen for updates on Synthalingua
+  You can follow my X account https://x.com/therealjoeykoen or check out https://x.com/SynthalinguaGH<br>
+  Please be aware of scams. I do not do anything related to crypto or nfts.
 </p>
 
 <p align="center">
